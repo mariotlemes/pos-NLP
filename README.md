@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=red)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=plstic&logo=python)
-
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=plastic&logo=pandas)
 
 ### **Estudo preliminar**
 **Objetivo**: Compreender a obra "[Python para Processamento de Dados](https://github.com/mariotlemes/pos-NLP/blob/main/livros/python+para+processamento+de+dados.pdf)"
@@ -43,7 +43,7 @@
 ----------------------------------------------------
 
 ### Como rodar os exemplos?
-#### Windows
+#### `Windows`
 ```
 cd ~ && git clone https://github.com/mariotlemes/pos-NLP.git
 py -m venv venv
@@ -56,7 +56,7 @@ Para desativar:
 ```
 deactivate
 ```
-#### MAC Os/Linux
+#### `MAC OS/Linux`
 ```
 sudo apt install python3-venv -y
 cd ~ && git clone https://github.com/mariotlemes/pos-NLP.git

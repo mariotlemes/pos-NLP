@@ -1,2 +1,3 @@
-# pos-NLP
-Memória dos códigos criados na pós de Processamento de Linguagem Natural 
+# Especialização em Natural Language Processing (2025-2026)
+
+Memória dos estudos e pesquisadas realizadas.

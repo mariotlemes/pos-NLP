@@ -3,6 +3,8 @@
 **Descrição**: A Especialização em Processamento de Linguagem Natural (NLP) é uma pós-graduação lato sensu reconhecida pelo Ministério da Educação (MEC), e representa uma área interdisciplinar que combina Linguística, Ciência da Computação e Inteligência Artificial
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=red)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=plstic&logo=python)
 
 
 ### **Estudo preliminar**
@@ -39,3 +41,28 @@
 #### Módulo 3.2 - Trabalho de Conclusão de Curso
 
 ----------------------------------------------------
+
+### Como rodar os exemplos?
+#### Windows
+```
+cd ~ && git clone https://github.com/mariotlemes/pos-NLP.git
+py -m venv venv
+.\venv\Scripts\activate.bat
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+Para desativar:
+```
+deactivate
+```
+#### MAC Os/Linux
+```
+sudo apt install python3-venv -y
+cd ~ && git clone https://github.com/mariotlemes/pos-NLP.git
+python3 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip3 install -r requirements.txt
+```
+----------------------

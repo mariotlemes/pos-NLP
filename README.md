@@ -47,7 +47,7 @@
 ```
 cd ~ && git clone https://github.com/mariotlemes/pos-NLP.git
 py -m venv venv
-.\venv\Scripts\activate.bat
+.\venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```

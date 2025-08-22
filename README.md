@@ -58,7 +58,7 @@ deactivate
 ```
 #### `MAC OS/Linux`
 ```
-sudo apt install python3-venv -y
+sudo apt install python3 -venv -y
 cd ~ && git clone https://github.com/mariotlemes/pos-NLP.git
 python3 -m venv .venv
 source .venv/bin/activate

@@ -6,7 +6,7 @@
 
 
 ### **Estudo preliminar**
-**Objetivo**: Compreender a obra "[Python para Processamento de linguagem natural](https://github.com/mariotlemes/pos-NLP/blob/main/livros/python+para+processamento+de+dados.pdf)"
+**Objetivo**: Compreender a obra "[Python para Processamento de Dados](https://github.com/mariotlemes/pos-NLP/blob/main/livros/python+para+processamento+de+dados.pdf)"
 
 **Código desenvolvido**: [clique aqui](https://github.com/mariotlemes/pos-NLP/blob/main/python_para_processamento_de_dados.ipynb)
 

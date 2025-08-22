@@ -4,8 +4,6 @@
 
 ## Memória dos estudos e pesquisas conduzidas no período.
 
-----------------------------------------------------
-
 ### **Estudo preliminar**
 **Objetivo**: Compreender a obra "[Python para Processamento de linguagem natural](https://github.com/mariotlemes/pos-NLP/blob/main/livros/python+para+processamento+de+dados.pdf)"
 

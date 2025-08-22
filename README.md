@@ -31,7 +31,7 @@
 
 ----------------------------------------------------
 
-### `Trilha de Aprendizagem 3: Prática Aplicada`
+### `Trilha de Aprendizagem 3: Prática aplicada`
 
 ----------------------------------------------------
 

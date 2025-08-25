@@ -21,21 +21,21 @@
 
 Microcurso: [Resolução de problemas com Processamento de Linguagem Natural](https://ava.akcit.ufg.br/course/view.php?id=63)
 
-Livro: [Aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.1.1-resolucao-de-problemas-com-processamento-de-linguagem-natural.pdf)
+Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.1.1-resolucao-de-problemas-com-processamento-de-linguagem-natural.pdf)
 
 #### Módulo 1.2 - Fundamentos de IA 
 
 Microcurso: [Introdução a Python](https://ava.akcit.ufg.br/course/view.php?id=64)
 
-Livro: [Aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.1-introducao-ao-python.pdf)
+Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.1-introducao-ao-python.pdf)
 
 Microcurso: Python para processamento de dados
 
-Livro: [Aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.2-python-para-processamento-de-dados.pdf)
+Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.2-python-para-processamento-de-dados.pdf)
 
 Microcurso: Introdução a Machine Learning e Redes Neurais 
 
-Livro: [Aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.3-Introdução-a-machine-learning-e-redes-neurais.pdf)
+Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.3-Introdução-a-machine-learning-e-redes-neurais.pdf)
 
 ----------------------------------------------------
 
@@ -45,16 +45,44 @@ Livro: [Aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.3-Intr
 
 #### Módulo 2.1 - Fundamentos de NLP
 
-#### Módulo 2.1 - Fundamentos de LLM
+Microcurso: Introdução ao Processamento de Linguagem Natural
 
-----------------------------------------------------
+Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/2.1.1-introdução-ao-processamento-de-linguagem-natural.pdf)
+
+
+Microcurso: Métodos Clássicos de Processamento de Linguagem Natural
+
+Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/2.1.2-métodos-clássicos-de-processamento-de-linguagem-natural.pdf)
+
+#### Módulo 2.2 - Fundamentos de LLM
+
+Microcurso: Arquiteturas Profundas para Processamento de Linguagem Natural
+
+Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/2.2.1-arquiteturas-profundas-para-processamento-de-linguagem-natural.pdf)
+
+Microcurso: Grandes Modelos de Linguagem
+
+Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/2.2.2-grandes-modelos-de-linguagem.pdf)
+
+Microcurso: Grandes Modelos de Linguagens com Applications Programming Interface (APIs)
+
 
 ### `Trilha de Aprendizagem 3: Prática aplicada`
 
 ----------------------------------------------------
 
 #### Módulo 3.1 - Aplicação prática de NLP
+
+Microcurso: Aplicação Prática de Modelos de Linguagem e Engenharia de Prompt no Mercado
+
+Microcurso: Aplicações Emergentes e Imersivas de Modelos de Linguagem
+
+
 #### Módulo 3.2 - Trabalho de Conclusão de Curso
+
+Microcurso: Projeto de Desenvolvimento e Aplicação de Processamento de Linguagem Natural
+
+Microcurso: Trabalho de Conclusão de Curso
 
 ----------------------------------------------------
 

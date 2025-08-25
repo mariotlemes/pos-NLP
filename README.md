@@ -19,6 +19,9 @@
 
 #### Módulo 1.1 - Introdução ao curso
 
+Microcurso: [Resolução de problemas com Processamento de Linguagem Natural](https://ava.akcit.ufg.br/course/view.php?id=63)
+Livro: [Aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.1.1-resolucao-de-problemas-com-processamento-de-linguagem-natural.pdf)
+
 #### Módulo 1.2 - Fundamentos de IA 
 
 ----------------------------------------------------

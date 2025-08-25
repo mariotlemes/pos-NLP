@@ -66,6 +66,8 @@ Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/2.2.2-gran
 
 Microcurso: Grandes Modelos de Linguagens com Applications Programming Interface (APIs)
 
+Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/2.2.3-grandes-modelos-de-linguagens-com-APIs.pdf)
+
 
 ### `Trilha de Aprendizagem 3: Prática aplicada`
 
@@ -75,7 +77,11 @@ Microcurso: Grandes Modelos de Linguagens com Applications Programming Interface
 
 Microcurso: Aplicação Prática de Modelos de Linguagem e Engenharia de Prompt no Mercado
 
+Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/3.1.1-aplicação-prática-de-modelos-de-linguagem-e-engenharia-de-prompt-no-mercado.pdf)
+
 Microcurso: Aplicações Emergentes e Imersivas de Modelos de Linguagem
+
+Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/3.1.2-aplicações-emergentes-e-imersivas-de-modelos-de-linguagem.pdf)
 
 
 #### Módulo 3.2 - Trabalho de Conclusão de Curso

@@ -24,6 +24,14 @@ Livro: [Aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.1.1-reso
 
 #### Módulo 1.2 - Fundamentos de IA 
 
+Microcurso: [Introdução a Python](https://ava.akcit.ufg.br/course/view.php?id=64)
+Livro: [Aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.1-introducao-ao-python.pdf)
+
+Microcurso: Python para processamento de dados
+Livro: [Aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.2-python-para-processamento-de-dados.pdf)
+
+Microcurso: Introdução a Machine Learning e Redes Neurais
+Livro: [Aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.3-Introdução-a-machine-learning-e-redes-neurais.pdf)
 ----------------------------------------------------
 
 ### `Trilha de Aprendizagem 2: Fundamentos específicos`

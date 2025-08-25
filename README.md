@@ -8,9 +8,9 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=plastic&logo=pandas)
 
 ### **Estudo preliminar**
-**Objetivo**: Compreender a obra "[Python para Processamento de Dados](https://github.com/mariotlemes/pos-NLP/blob/main/livros/python+para+processamento+de+dados.pdf)"
+**Objetivo**: Compreender a obra "[Python para Processamento de Dados](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.2-python-para-processamento-de-dados.pdf)"
 
-**Código desenvolvido**: [clique aqui](https://github.com/mariotlemes/pos-NLP/blob/main/python_para_processamento_de_dados.ipynb)
+**Código desenvolvido**: [clique aqui](https://github.com/mariotlemes/pos-NLP/blob/main/src/preliminar/python_para_processamento_de_dados.ipynb)
 
 ----------------------------------------------------
 ### `Trilha de Aprendizagem 1: Fundamentos básicos`

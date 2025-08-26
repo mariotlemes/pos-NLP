@@ -1,12 +1,16 @@
 # Especialização em Natural Language Processing (2025-2026)
 
-**Descrição**: A Especialização em Processamento de Linguagem Natural (NLP) é uma pós-graduação lato sensu reconhecida pelo Ministério da Educação (MEC), e representa uma área interdisciplinar que combina Linguística, Ciência da Computação e Inteligência Artificial
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=red)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=plastic&logo=python&size=40x40)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=plastic&logo=pandas)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=plastic&logo=python&logoColor=white&size=40x40)
+
+**Descrição**: A Especialização em Processamento de Linguagem Natural (NLP) é uma pós-graduação lato sensu reconhecida pelo Ministério da Educação (MEC), e representa uma área interdisciplinar que combina Linguística, Ciência da Computação e Inteligência Artificial
+
+----------------------------------------------------
+
+
 ### **Estudo preliminar**
 **Objetivo**: Compreender a obra "[Python para Processamento de Dados](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.2-python-para-processamento-de-dados.pdf)"
 

@@ -1,4 +1,4 @@
-# Especialização em Natural Language Processing (2025-2026)
+# Especialização em Natural Language Processing
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=red)

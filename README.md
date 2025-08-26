@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=red)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=plstic&logo=python)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=plastic&logo=pandas)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=plastic&logo=python&logoColor=white&size=40x40)
 ### **Estudo preliminar**

@@ -6,7 +6,7 @@
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=red)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=plstic&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=plastic&logo=pandas)
-
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=plastic&logo=python&logoColor=white&size=40x40)
 ### **Estudo preliminar**
 **Objetivo**: Compreender a obra "[Python para Processamento de Dados](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.2-python-para-processamento-de-dados.pdf)"
 

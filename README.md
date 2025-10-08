@@ -9,33 +9,29 @@
 **Descrição**: A Especialização em Processamento de Linguagem Natural (NLP) é uma pós-graduação lato sensu reconhecida pelo Ministério da Educação (MEC), e representa uma área interdisciplinar que combina Linguística, Ciência da Computação e Inteligência Artificial
 
 ----------------------------------------------------
-
-
-### **Estudo preliminar**
-**Objetivo**: Compreender a obra "[Python para Processamento de Dados](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.2-python-para-processamento-de-dados.pdf)"
-
-**Código desenvolvido**: [clique aqui](https://github.com/mariotlemes/pos-NLP/blob/main/src/preliminar/python_para_processamento_de_dados.ipynb)
-
-----------------------------------------------------
 ### `Trilha de Aprendizagem 1: Fundamentos básicos`
 
 ----------------------------------------------------
 
 #### Módulo 1.1 - Introdução ao curso
 
-Microcurso: [Resolução de problemas com Processamento de Linguagem Natural](https://ava.akcit.ufg.br/course/view.php?id=63)
+Microcurso: [Resolução de problemas com Processamento de Linguagem Natural](https://ava.akcit.ufg.br/course/view.php?id=109)
 
 Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.1.1-resolucao-de-problemas-com-processamento-de-linguagem-natural.pdf)
 
 #### Módulo 1.2 - Fundamentos de IA 
 
-Microcurso: [Introdução a Python](https://ava.akcit.ufg.br/course/view.php?id=64)
+Microcurso: [Introdução a Python](https://ava.akcit.ufg.br/course/view.php?id=110)
 
 Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.1-introducao-ao-python.pdf)
 
-Microcurso: Python para processamento de dados
+Microcurso: [Python para processamento de dados](https://ava.akcit.ufg.br/course/view.php?id=111)
 
 Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.2-python-para-processamento-de-dados.pdf)
+
+Códigos desenvolvidos: [1](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-NumPy-matplotlib/atividade_forum.ipynb),
+[2](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-visualizacao-dados/forum_visualizacao_dados.ipynb) e 
+[3](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-forum-estudo-caso-titanic/estudo_caso_titanic.ipynb). 
 
 Microcurso: Introdução a Machine Learning e Redes Neurais 
 

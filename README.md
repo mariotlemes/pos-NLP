@@ -33,7 +33,7 @@ Códigos desenvolvidos: [1](https://github.com/mariotlemes/pos-NLP/blob/main/src
 [2](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-visualizacao-dados/forum_visualizacao_dados.ipynb) e 
 [3](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-forum-estudo-caso-titanic/estudo_caso_titanic.ipynb). 
 
-Microcurso: Introdução a Machine Learning e Redes Neurais 
+Microcurso: [Introdução a Machine Learning e Redes Neurais](https://ava.akcit.ufg.br/course/view.php?id=112) 
 
 Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.3-Introdução-a-machine-learning-e-redes-neurais.pdf)
 

@@ -30,13 +30,25 @@ Microcurso: [Python para processamento de dados](https://ava.akcit.ufg.br/course
 
 Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.2-python-para-processamento-de-dados.pdf)
 
-Códigos desenvolvidos: [1](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-NumPy-matplotlib/atividade_forum.ipynb),
-[2](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-visualizacao-dados/forum_visualizacao_dados.ipynb) e 
-[3](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-forum-estudo-caso-titanic/estudo_caso_titanic.ipynb). 
+<span style="color:green">
+Códigos desenvolvidos:
+</span>
+
+[M3-estudo](https://github.com/mariotlemes/pos-NLP/tree/main/src/M3-estudo),
+[M3-NumPy-matplotlib](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-NumPy-matplotlib/atividade_forum.ipynb),
+[M3-visualizacao-dados](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-visualizacao-dados/forum_visualizacao_dados.ipynb) e 
+[M3-forum-estudo-caso-titanic](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-forum-estudo-caso-titanic/estudo_caso_titanic.ipynb).
 
 Microcurso: [Introdução a Machine Learning e Redes Neurais](https://ava.akcit.ufg.br/course/view.php?id=112) 
 
 Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.3-Introdução-a-machine-learning-e-redes-neurais.pdf)
+
+<span style="color:green">
+Códigos desenvolvidos:
+</span>
+
+[M4-funcoes-discriminantes]()
+
 
 ----------------------------------------------------
 

@@ -47,7 +47,8 @@ Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.3-Intr
 Códigos desenvolvidos:
 </span>
 
-[M4-funcoes-discriminantes]()
+[M4-funcoes-discriminantes](https://github.com/mariotlemes/pos-NLP/tree/main/src/M4-funcoes-discriminantes), 
+[M4-conjunto-de-dados](https://github.com/mariotlemes/pos-NLP/tree/main/src/M4-conjunto-de-dados)
 
 
 ----------------------------------------------------

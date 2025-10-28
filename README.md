@@ -5,8 +5,9 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=plastic&logo=python&size=40x40)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=plastic&logo=pandas)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=plastic&logo=python&logoColor=white&size=40x40)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow?style=plastic)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7331B?style=plastic&logo=scikit-learn&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white)
+
 
 **Descrição**: A Especialização em Processamento de Linguagem Natural (NLP) é uma pós-graduação lato sensu reconhecida pelo Ministério da Educação (MEC), e representa uma área interdisciplinar que combina Linguística, Ciência da Computação e Inteligência Artificial
 

@@ -48,9 +48,6 @@ M10: Aplicação Prática de Modelos de Linguagem e Engenharia de Prompt no Merc
 
 M11: Aplicações Emergentes e Imersivas de Modelos de Linguagem
 
-
-#### Módulo 3.2 - Trabalho de Conclusão de Curso
-
 M12: Projeto de Desenvolvimento e Aplicação de Processamento de Linguagem Natural
 
 M12: Trabalho de Conclusão de Curso

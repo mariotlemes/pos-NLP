@@ -16,13 +16,13 @@
 
 ----------------------------------------------------
 
-Microcurso: [Resolução de problemas com Processamento de Linguagem Natural](https://ava.akcit.ufg.br/course/view.php?id=109)
+M1: [Resolução de problemas com Processamento de Linguagem Natural](https://ava.akcit.ufg.br/course/view.php?id=109)
 
-Microcurso: [Introdução a Python](https://ava.akcit.ufg.br/course/view.php?id=110)
+M2: [Introdução a Python](https://ava.akcit.ufg.br/course/view.php?id=110)
 
-Microcurso: [Python para processamento de dados](https://ava.akcit.ufg.br/course/view.php?id=111)
+M3: [Python para processamento de dados](https://ava.akcit.ufg.br/course/view.php?id=111)
 
-Microcurso: [Introdução a Machine Learning e Redes Neurais](https://ava.akcit.ufg.br/course/view.php?id=112) 
+M4: [Introdução a Machine Learning e Redes Neurais](https://ava.akcit.ufg.br/course/view.php?id=112) 
 
 ----------------------------------------------------
 
@@ -30,30 +30,30 @@ Microcurso: [Introdução a Machine Learning e Redes Neurais](https://ava.akcit.
 
 ----------------------------------------------------
 
-Microcurso: Introdução ao Processamento de Linguagem Natural
+M5: Introdução ao Processamento de Linguagem Natural
 
-Microcurso: Métodos Clássicos de Processamento de Linguagem Natural
+M6: Métodos Clássicos de Processamento de Linguagem Natural
 
-Microcurso: Arquiteturas Profundas para Processamento de Linguagem Natural
+M7: Arquiteturas Profundas para Processamento de Linguagem Natural
 
-Microcurso: Grandes Modelos de Linguagem
+M8: Grandes Modelos de Linguagem
 
-Microcurso: Grandes Modelos de Linguagens com Applications Programming Interface (APIs)
+M9: Grandes Modelos de Linguagens com Applications Programming Interface (APIs)
 
 ### `Trilha de Aprendizagem 3: Prática aplicada`
 
 ----------------------------------------------------
 
-Microcurso: Aplicação Prática de Modelos de Linguagem e Engenharia de Prompt no Mercado
+M10: Aplicação Prática de Modelos de Linguagem e Engenharia de Prompt no Mercado
 
-Microcurso: Aplicações Emergentes e Imersivas de Modelos de Linguagem
+M11: Aplicações Emergentes e Imersivas de Modelos de Linguagem
 
 
 #### Módulo 3.2 - Trabalho de Conclusão de Curso
 
-Microcurso: Projeto de Desenvolvimento e Aplicação de Processamento de Linguagem Natural
+M12: Projeto de Desenvolvimento e Aplicação de Processamento de Linguagem Natural
 
-Microcurso: Trabalho de Conclusão de Curso
+M12: Trabalho de Conclusão de Curso
 
 ----------------------------------------------------
 

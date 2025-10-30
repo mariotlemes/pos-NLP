@@ -17,8 +17,11 @@
 ----------------------------------------------------
 
 Microcurso: [Resolução de problemas com Processamento de Linguagem Natural](https://ava.akcit.ufg.br/course/view.php?id=109)
+
 Microcurso: [Introdução a Python](https://ava.akcit.ufg.br/course/view.php?id=110)
+
 Microcurso: [Python para processamento de dados](https://ava.akcit.ufg.br/course/view.php?id=111)
+
 Microcurso: [Introdução a Machine Learning e Redes Neurais](https://ava.akcit.ufg.br/course/view.php?id=112) 
 
 ----------------------------------------------------

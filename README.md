@@ -16,42 +16,10 @@
 
 ----------------------------------------------------
 
-#### Módulo 1.1 - Introdução ao curso
-
 Microcurso: [Resolução de problemas com Processamento de Linguagem Natural](https://ava.akcit.ufg.br/course/view.php?id=109)
-
-Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.1.1-resolucao-de-problemas-com-processamento-de-linguagem-natural.pdf)
-
-#### Módulo 1.2 - Fundamentos de IA 
-
 Microcurso: [Introdução a Python](https://ava.akcit.ufg.br/course/view.php?id=110)
-
-Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.1-introducao-ao-python.pdf)
-
 Microcurso: [Python para processamento de dados](https://ava.akcit.ufg.br/course/view.php?id=111)
-
-Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.2-python-para-processamento-de-dados.pdf)
-
-<span style="color:green">
-Códigos desenvolvidos:
-</span>
-
-[M3-estudo](https://github.com/mariotlemes/pos-NLP/tree/main/src/M3-estudo),
-[M3-NumPy-matplotlib](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-NumPy-matplotlib/atividade_forum.ipynb),
-[M3-visualizacao-dados](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-visualizacao-dados/forum_visualizacao_dados.ipynb) e 
-[M3-forum-estudo-caso-titanic](https://github.com/mariotlemes/pos-NLP/blob/main/src/M3-forum-estudo-caso-titanic/estudo_caso_titanic.ipynb).
-
 Microcurso: [Introdução a Machine Learning e Redes Neurais](https://ava.akcit.ufg.br/course/view.php?id=112) 
-
-Livro: [aqui](https://github.com/mariotlemes/pos-NLP/blob/main/livros/1.2.3-Introdução-a-machine-learning-e-redes-neurais.pdf)
-
-<span style="color:green">
-Códigos desenvolvidos:
-</span>
-
-[M4-funcoes-discriminantes](https://github.com/mariotlemes/pos-NLP/tree/main/src/M4-funcoes-discriminantes), 
-[M4-conjunto-de-dados](https://github.com/mariotlemes/pos-NLP/tree/main/src/M4-conjunto-de-dados)
-
 
 ----------------------------------------------------
 

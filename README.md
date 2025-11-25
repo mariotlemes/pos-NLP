@@ -8,7 +8,7 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7331B?style=plastic&logo=scikit-learn&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-green?style=plastic)
-
+![Spacy](https://img.shields.io/badge/spaCy-09A3D5?style=plastic&logo=spacy&logoColor=white)
 
 **Descrição**: A Especialização em Processamento de Linguagem Natural (NLP) é uma pós-graduação lato sensu reconhecida pelo Ministério da Educação (MEC), e representa uma área interdisciplinar que combina Linguística, Ciência da Computação e Inteligência Artificial
 
@@ -31,9 +31,9 @@ M4: [Introdução a Machine Learning e Redes Neurais](https://ava.akcit.ufg.br/c
 
 ----------------------------------------------------
 
-M5: Introdução ao Processamento de Linguagem Natural
+M5: [Introdução ao Processamento de Linguagem Natural](https://ava.akcit.ufg.br/course/view.php?id=113)
 
-M6: Métodos Clássicos de Processamento de Linguagem Natural
+M6: [Métodos Clássicos de Processamento de Linguagem Natural](https://ava.akcit.ufg.br/course/view.php?id=114)
 
 M7: Arquiteturas Profundas para Processamento de Linguagem Natural
 

@@ -9,6 +9,8 @@
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-green?style=plastic)
 ![Spacy](https://img.shields.io/badge/spaCy-09A3D5?style=plastic&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/nltk-blue?style=plastic)
+
 
 **Descrição**: A Especialização em Processamento de Linguagem Natural (NLP) é uma pós-graduação lato sensu reconhecida pelo Ministério da Educação (MEC), e representa uma área interdisciplinar que combina Linguística, Ciência da Computação e Inteligência Artificial
 
